@@ -468,6 +468,7 @@ int main(){
     "the same time. And if an element of a list is deleted, it may cause memory\nleak as "
     "the pointer of thta element of another list will still point to that memory.\n"
     "Therefore, the default copy constructor is not reliable."<<endl;
+    
     //Q 12
     DLLStructure dll2(dll);
     dll2.PrintDLL();
