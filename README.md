@@ -10,6 +10,7 @@ The class "Node" having the following data members and methods:
 appropriately deleted (if any)
 - A personalized constructor that will create a node and assign its data and pointers
 to the given values passed as arguments Node( int data, Node* next, Node* previous )
+
 The class DLLStructure (for Doubly Linked List Structure) having the following data members and methods:
 - A pointer to the first element of the list
 - A pointer to the last element of the list
